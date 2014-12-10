@@ -5,3 +5,5 @@ Contained are 3 examples:
 2. Interactive Force-Directed Network Visualization
 3. Chloropleth Map (visualizing earthquakes across the United States)
 
+The easiest way to run an example is to navigate to the root directory of an example in terminal and then run 'python -m SimpleHTTPServer'. Then navigate to localhost:8000 in your browser. To stop the server, just press control-c in the terminal you used to start the server.
+
