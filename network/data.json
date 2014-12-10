@@ -1,0 +1,426 @@
+{    
+  "nodes": [
+      {
+        "group": 1,
+        "name": "Fry Boone"
+      },
+      {
+        "group": 2,
+        "name": "Lottie Hopper"
+      },
+      {
+        "group": 3,
+        "name": "Velazquez Dixon"
+      },
+      {
+        "group": 1,
+        "name": "Lang Byrd"
+      },
+      {
+        "group": 3,
+        "name": "Murphy Winters"
+      },
+      {
+        "group": 1,
+        "name": "Rojas Reeves"
+      },
+      {
+        "group": 1,
+        "name": "Ewing Velazquez"
+      },
+      {
+        "group": 1,
+        "name": "Roseann Riddle"
+      },
+      {
+        "group": 3,
+        "name": "Patty Stewart"
+      },
+      {
+        "group": 2,
+        "name": "Lenore Floyd"
+      },
+      {
+        "group": 3,
+        "name": "Reva Ferguson"
+      },
+      {
+        "group": 2,
+        "name": "Winters Hunt"
+      },
+      {
+        "group": 3,
+        "name": "Todd Merritt"
+      },
+      {
+        "group": 1,
+        "name": "Dolly Bonner"
+      },
+      {
+        "group": 2,
+        "name": "Consuelo Rios"
+      },
+      {
+        "group": 3,
+        "name": "Lynch Campbell"
+      },
+      {
+        "group": 1,
+        "name": "Witt Montgomery"
+      },
+      {
+        "group": 2,
+        "name": "Cochran Rocha"
+      },
+      {
+        "group": 1,
+        "name": "Earline Woods"
+      },
+      {
+        "group": 3,
+        "name": "Brianna Buck"
+      },
+      {
+        "group": 3,
+        "name": "Mann Ewing"
+      },
+      {
+        "group": 1,
+        "name": "Benson Santos"
+      },
+      {
+        "group": 2,
+        "name": "Ora Durham"
+      },
+      {
+        "group": 2,
+        "name": "Erin Sherman"
+      },
+      {
+        "group": 3,
+        "name": "Reynolds Morgan"
+      },
+      {
+        "group": 3,
+        "name": "Mariana Browning"
+      },
+      {
+        "group": 2,
+        "name": "Veronica Holder"
+      },
+      {
+        "group": 1,
+        "name": "Luann Reyes"
+      },
+      {
+        "group": 1,
+        "name": "Dyer Richards"
+      },
+      {
+        "group": 3,
+        "name": "Fuller Bradley"
+      }
+    ],
+    "links": [
+      {
+        "source": 7,
+        "target": 7,
+        "value": 10
+      },
+      {
+        "source": 2,
+        "target": 23,
+        "value": 6
+      },
+      {
+        "source": 12,
+        "target": 23,
+        "value": 4
+      },
+      {
+        "source": 8,
+        "target": 28,
+        "value": 10
+      },
+      {
+        "source": 29,
+        "target": 28,
+        "value": 2
+      },
+      {
+        "source": 28,
+        "target": 12,
+        "value": 1
+      },
+      {
+        "source": 10,
+        "target": 26,
+        "value": 5
+      },
+      {
+        "source": 25,
+        "target": 12,
+        "value": 5
+      },
+      {
+        "source": 2,
+        "target": 22,
+        "value": 6
+      },
+      {
+        "source": 2,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 28,
+        "target": 1,
+        "value": 5
+      },
+      {
+        "source": 17,
+        "target": 20,
+        "value": 10
+      },
+      {
+        "source": 20,
+        "target": 4,
+        "value": 6
+      },
+      {
+        "source": 7,
+        "target": 6,
+        "value": 10
+      },
+      {
+        "source": 18,
+        "target": 0,
+        "value": 5
+      },
+      {
+        "source": 13,
+        "target": 15,
+        "value": 6
+      },
+      {
+        "source": 17,
+        "target": 1,
+        "value": 10
+      },
+      {
+        "source": 22,
+        "target": 15,
+        "value": 10
+      },
+      {
+        "source": 27,
+        "target": 9,
+        "value": 9
+      },
+      {
+        "source": 28,
+        "target": 10,
+        "value": 1
+      },
+      {
+        "source": 12,
+        "target": 29,
+        "value": 8
+      },
+      {
+        "source": 29,
+        "target": 14,
+        "value": 7
+      },
+      {
+        "source": 17,
+        "target": 17,
+        "value": 5
+      },
+      {
+        "source": 25,
+        "target": 14,
+        "value": 3
+      },
+      {
+        "source": 4,
+        "target": 2,
+        "value": 9
+      },
+      {
+        "source": 5,
+        "target": 3,
+        "value": 7
+      },
+      {
+        "source": 8,
+        "target": 3,
+        "value": 6
+      },
+      {
+        "source": 19,
+        "target": 19,
+        "value": 4
+      },
+      {
+        "source": 15,
+        "target": 13,
+        "value": 3
+      },
+      {
+        "source": 7,
+        "target": 27,
+        "value": 6
+      },
+      {
+        "source": 19,
+        "target": 20,
+        "value": 5
+      },
+      {
+        "source": 8,
+        "target": 15,
+        "value": 5
+      },
+      {
+        "source": 11,
+        "target": 11,
+        "value": 2
+      },
+      {
+        "source": 28,
+        "target": 24,
+        "value": 1
+      },
+      {
+        "source": 13,
+        "target": 9,
+        "value": 1
+      },
+      {
+        "source": 7,
+        "target": 25,
+        "value": 6
+      },
+      {
+        "source": 29,
+        "target": 16,
+        "value": 9
+      },
+      {
+        "source": 18,
+        "target": 12,
+        "value": 1
+      },
+      {
+        "source": 12,
+        "target": 6,
+        "value": 8
+      },
+      {
+        "source": 24,
+        "target": 4,
+        "value": 10
+      },
+      {
+        "source": 8,
+        "target": 20,
+        "value": 3
+      },
+      {
+        "source": 25,
+        "target": 25,
+        "value": 1
+      },
+      {
+        "source": 0,
+        "target": 13,
+        "value": 9
+      },
+      {
+        "source": 20,
+        "target": 8,
+        "value": 5
+      },
+      {
+        "source": 4,
+        "target": 26,
+        "value": 5
+      },
+      {
+        "source": 14,
+        "target": 6,
+        "value": 10
+      },
+      {
+        "source": 20,
+        "target": 19,
+        "value": 7
+      },
+      {
+        "source": 7,
+        "target": 12,
+        "value": 2
+      },
+      {
+        "source": 1,
+        "target": 15,
+        "value": 4
+      },
+      {
+        "source": 14,
+        "target": 3,
+        "value": 2
+      },
+      {
+        "source": 11,
+        "target": 27,
+        "value": 3
+      },
+      {
+        "source": 23,
+        "target": 29,
+        "value": 6
+      },
+      {
+        "source": 19,
+        "target": 20,
+        "value": 6
+      },
+      {
+        "source": 3,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 13,
+        "target": 2,
+        "value": 6
+      },
+      {
+        "source": 12,
+        "target": 22,
+        "value": 4
+      },
+      {
+        "source": 18,
+        "target": 6,
+        "value": 10
+      },
+      {
+        "source": 0,
+        "target": 25,
+        "value": 3
+      },
+      {
+        "source": 1,
+        "target": 19,
+        "value": 9
+      },
+      {
+        "source": 12,
+        "target": 23,
+        "value": 5
+      }
+    ]
+}
